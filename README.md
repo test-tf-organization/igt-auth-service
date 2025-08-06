@@ -1,1 +1,1 @@
-# igt-auth-service
+# ig-auth-service
